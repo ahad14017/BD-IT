@@ -1,0 +1,4 @@
+[11-Jun-2020 19:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/oxp42oob1w2p/public_html/eshop/ebuyy/ebuyy/inc/connect.inc.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/oxp42oob1w2p/public_html/eshop/ebuyy/ebuyy/inc/connect.inc.php on line 2
